@@ -1,54 +1,15 @@
-# VSCode Files
-.vscode/
-
-# Visual Studio files
+# Visual Studio / IDE files
 .vs/
-bin/
-obj/
-*.exe
-*.pdb
-*.dll
+.vscode/
+.idea/
 *.user
 *.suo
 *.cache
 *.log
-*.vspscc
-*.vssscc
-*.psess
-*.dbmdl
-*.dbproj*
-*.VC.db
-*.csproj.user
-*.bak
-*.cache
-*.sln.docstates
-*.sln.ide-shadows
-[Tt]humbs.db
-*.dbmdl
-*.dbproj*
-*.VC.db
-*.csproj.user
-*.bak
-*.cache
-*.sln.docstates
-*.sln.ide-shadows
-[Tt]humbs.db
-
-# JetBrains Rider files
-.idea/
-*.iml
-*.ipr
-*.iws
-.idea_modules/
 
 # Build results
 bin/
 obj/
 
-# Ignore files in the VRCFaceTracking-Next folder
-/VRCFaceTracking/bin/
-/VRCFaceTracking/obj/
-
-# Ignore files in the VRCFaceTracking-Next.Core folder
-/VRCFaceTracking.Core/bin/
-/VRCFaceTracking.Core/obj/
+# OS files
+[Tt]humbs.db
