@@ -15,14 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
-		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Debug|Any CPU.Build.0 = Debug|AnyCPU
-		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Release|Any CPU.ActiveCfg = Release|AnyCPU
-		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Release|Any CPU.Build.0 = Release|AnyCPU
-		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
-		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.Build.0 = Debug|AnyCPU
-		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.ActiveCfg = Release|AnyCPU
-		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.Build.0 = Release|AnyCPU
+		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Debug|Any CPU.ActiveCfg = Linux Debug|AnyCPU
+		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Debug|Any CPU.Build.0 = Linux Debug|AnyCPU
+		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Release|Any CPU.ActiveCfg = Linux Release|AnyCPU
+		{F89BB77D-BD1E-442D-A475-94F4D175F1C9}.Release|Any CPU.Build.0 = Linux Release|AnyCPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.ActiveCfg = Linux Debug|AnyCPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.Build.0 = Linux Debug|AnyCPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.ActiveCfg = Linux Release|AnyCPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.Build.0 = Linux Release|AnyCPU
 		{5C767E86-E21A-441E-B11D-E5BCA3F0DB96}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
 		{5C767E86-E21A-441E-B11D-E5BCA3F0DB96}.Debug|Any CPU.Build.0 = Debug|AnyCPU
 		{5C767E86-E21A-441E-B11D-E5BCA3F0DB96}.Release|Any CPU.ActiveCfg = Release|AnyCPU
