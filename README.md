@@ -13,7 +13,10 @@ Supports eye tracking, eye expressions, and 61 ARKit blendshapes mapped to VRCFa
 
 ## Installation
 
-Download `LiveLinkModule.zip` from the [latest release](https://github.com/ForeverAnApple/VRCFaceTracking-LiveLink/releases/latest) and install it through VRCFaceTracking's module manager (drag and drop the zip).
+1. Download `LiveLinkModule.zip` from the [latest release](https://github.com/ForeverAnApple/VRCFaceTracking-LiveLink/releases/latest)
+2. In VRCFaceTracking, go to the Module Registry and install the zip
+
+Things should work out of the box. If you run into issues, try restarting VRCFaceTracking or toggling OSC off and on.
 
 ## Usage
 
