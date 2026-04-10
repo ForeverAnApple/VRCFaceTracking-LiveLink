@@ -12,8 +12,8 @@
     <ProjectReference Include="..\VRCFaceTracking\VRCFaceTracking.Core\VRCFaceTracking.Core.csproj" />
   </ItemGroup>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition="'$(OS)' == 'Windows_NT'">
-    <Exec Command="copy /y &quot;$(TargetDir)LiveLinkModule.dll&quot; &quot;%25APPDATA%25\VRCFaceTracking\CustomLibs&quot;" />
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition="'$(OS)' == 'Windows_NT' AND '$(CI)' == ''">
+    <Exec Command="copy /y &quot;$(TargetDir)LiveLinkModule.dll&quot; &quot;%25APPDATA%25\VRCFaceTracking\CustomLibs&quot;" IgnoreExitCode="true" />
   </Target>
 
 </Project>
