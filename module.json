@@ -1,0 +1,15 @@
+{
+    "ModuleId": "a8e2f5c1-3b7d-4e9a-b6c8-1d2f3a4b5c6d",
+    "AuthorName": "ForeverAnApple",
+    "DllFileName": "LiveLinkModule.dll",
+    "Downloads": 0,
+    "DownloadUrl": "https://github.com/ForeverAnApple/VRCFaceTracking-LiveLink/releases/latest/download/LiveLinkModule.zip",
+    "LastUpdated": "2026-04-09T00:00:00Z",
+    "ModuleDescription": "VRCFaceTracking module for Apple ARKit LiveLink face tracking",
+    "ModuleName": "LiveLink Module",
+    "ModulePageUrl": "https://github.com/ForeverAnApple/VRCFaceTracking-LiveLink",
+    "Rating": 0,
+    "Ratings": 0,
+    "UsageInstructions": "Install the LiveLink Face app on your iPhone, configure it to send to your PC's IP on port 11111, then enable this module in VRCFaceTracking.",
+    "Version": "2.0.0"
+}
