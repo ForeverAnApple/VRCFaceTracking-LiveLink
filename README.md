@@ -21,9 +21,10 @@ Things should work out of the box. If you run into issues, try restarting VRCFac
 ## Usage
 
 1. Open Live Link Face on your Apple device
-2. Go to Settings > Live Link and add your PC's local IP address (leave port as default `11111`)
-3. Return to the main screen and ensure the Live button is green
-4. Launch VRCFaceTracking -- the LiveLink module should appear and start receiving data
+2. Set **Capture Mode** to **ARKit** — other modes do not send compatible data
+3. Go to Settings > Live Link and add your PC's local IP address (leave port as default `11111`)
+4. Return to the main screen and ensure the Live button is green
+5. Launch VRCFaceTracking -- the LiveLink module should appear and start receiving data
 
 ## Building from Source
 
